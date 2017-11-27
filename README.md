@@ -11,7 +11,7 @@
 ##### 1.軟體:android studio 
 ##### 2.硬體:arduino leonardo、重量感測器、藍芽模組、電池模組
 #### 6.作業程序:
-
+![](abc.png "")
 #### 7.APP畫面:
 ![](1.png "")
 ![](2.png "")
